@@ -7,6 +7,9 @@ TagManager:
   - PickUp
   - Coin
   - BadPickUp
+  - EastWall2
+  - WestWall2
+  - EnemyObstacle
   layers:
   - Default
   - TransparentFX
